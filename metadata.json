@@ -1,0 +1,5 @@
+{
+  "name": "Optimizador Slitter v2",
+  "description": "Industrial Cutting Stock Problem solver for Coil Slitting. Optimizes patterns to meet tonnage demand while minimizing waste and setups.",
+  "requestFramePermissions": []
+}
